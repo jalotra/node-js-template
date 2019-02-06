@@ -1,30 +1,21 @@
 {
-  "name": "node-js-template",
-  "version": "1.0.0",
-  "description": "joma's template",
+  "name": "node",
+  "version": "1.0.1",
+  "description": "initial app",
   "main": "index.js",
-  "dependencies": {
-    "ejs": "^2.5.9",
-    "express": "^4.16.3",
-    "request": "^2.85.0",
-    "tape": "^4.9.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/jalotra/node-js-template.git"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "Joma",
-  "license": "ISC",
+  "author": "Shivam",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": "https://github.com/jalotra/node-js-template/issues"
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/jalotra/node-js-template#readme"
 }
